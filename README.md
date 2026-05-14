@@ -27,13 +27,11 @@
 ## Installation
 
 ```bash
-npm install bubble-chart-tsx bubble-chart-js
+npm install bubble-chart-tsx
 # or
-yarn add bubble-chart-tsx bubble-chart-js
+yarn add bubble-chart-tsx
 ```
 
-> [!IMPORTANT]
-> `bubble-chart-js` is a peer dependency. Ensure it is installed alongside the wrapper.
 
 ---
 
